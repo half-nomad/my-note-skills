@@ -1,0 +1,20 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "my-note-skills",
+  "description": "Obsidian vault note management skills for Claude — create, update, and summarize notes from conversations.",
+  "owner": {
+    "name": "half-nomad"
+  },
+  "plugins": [
+    {
+      "name": "my-note-skills",
+      "description": "Four skills for managing an Obsidian vault from Claude: note-setup (vault detection), note-new (save conversations as notes), note-update (find and update related notes), note-summary (structured chat-only summaries).",
+      "author": {
+        "name": "half-nomad"
+      },
+      "category": "productivity",
+      "source": "./plugins/my-note-skills",
+      "homepage": "https://github.com/half-nomad/my-note-skills"
+    }
+  ]
+}
