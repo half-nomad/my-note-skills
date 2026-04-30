@@ -1,7 +1,7 @@
 {
   "name": "my-note-skills",
-  "version": "0.1.0",
-  "description": "Obsidian vault note management skills — create new notes from conversations and update related documents in your vault.",
+  "version": "0.2.0",
+  "description": "Obsidian vault note management skills — create new notes from conversations and update related documents in your vault. Includes /note-setup, /note-new, /note-update, /note-summary slash commands.",
   "author": {
     "name": "half-nomad"
   },
