@@ -1,0 +1,10 @@
+{
+  "name": "my-note-skills",
+  "version": "0.1.0",
+  "description": "Obsidian vault note management skills — create new notes from conversations and update related documents in your vault.",
+  "author": {
+    "name": "half-nomad"
+  },
+  "homepage": "https://github.com/half-nomad/my-note-skills",
+  "keywords": ["obsidian", "notes", "vault", "markdown", "knowledge-management"]
+}
