@@ -4,5 +4,9 @@ node_modules/
 .env
 .env.local
 
-# Plugin build backups
+# Build artifacts (official marketplace uses directory source, no packaging needed)
+dist/
 *.plugin.bak
+
+# Local helper scripts
+_push-to-github.command
